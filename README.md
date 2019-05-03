@@ -98,7 +98,7 @@ python neo4j_transform_load.py
 
 An example of the graph, visualised using [Linkurious](https://linkurio.us/)
 
-To do: insert image
+![Example of company structure visualised](images/linkurious.png?raw=true "Linkurious example")
 
 ## Requirements
 
