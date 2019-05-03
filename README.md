@@ -1,6 +1,6 @@
 # Persons of Significant Control Analysis March 2019
 
-This is an updated analysis of the UK Persons of Significant control (beneficial ownership) data including scripts on how to import UK Companies House Data into Neo4J. The original analysis undertaken in 2018, the accompanying briefing *Getting the UK's House in Order (2019)*. The original 2018 report *The Companies We Keep* is available  [here](https://www.globalwitness.org/en/campaigns/corruption-and-money-laundering/anonymous-company-owners/companies-we-keep/) and the code of the original analysis [here](https://github.com/Global-Witness/the-companies-we-keep-public).
+This is an updated analysis of the UK Persons of Significant control (beneficial ownership) data including scripts on how to import UK Companies House Data into Neo4J. The original analysis undertaken in 2018, the accompanying briefing [*Getting the UK's House in Order (2019)*](https://www.globalwitness.org/companieshouse). The original 2018 report *The Companies We Keep* is available  [here](https://www.globalwitness.org/en/campaigns/corruption-and-money-laundering/anonymous-company-owners/companies-we-keep/) and the code of the original analysis [here](https://github.com/Global-Witness/the-companies-we-keep-public).
 
 ## Analysis
 
