@@ -96,7 +96,7 @@ python neo4j_transform_load.py
 - `SuperSecure` - a SuperSecure PSC with protected details
 - `Postcode` - a postcode where companies from the live company dataset are registered
 
-An example of the graph, visualised using [Linkurious](https://linkurio.us/)
+An example of the part of the graph visualised using [Linkurious](https://linkurio.us/):
 
 ![Example of company structure visualised](images/linkurious.png?raw=true "Linkurious example")
 
