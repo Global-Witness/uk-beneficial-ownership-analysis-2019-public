@@ -1,0 +1,20 @@
+# files and directories to ignore so that they do not get published on GitHub and no history is saved
+
+
+# Secret keys for APIs and such that you do not want to share
+keys.py
+
+# By default don't upload data
+data
+
+# If use Jupyter Notebooks:
+notebooks/.ipynb_checkpoints
+notebooks/__pycache__
+
+# Some other Python related things
+.DS_Store
+*.pyc
+*.egg-info
+__pycache__
+scripts/__pycache__
+scripts/run_all.sh

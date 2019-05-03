@@ -1,0 +1,7 @@
+py2neo==4.1.0
+pandas==0.23.4
+s3fs==0.2.0
+numpy==1.16.2
+recordlinkage==0.12
+everypolitician==0.0.13
+missingno==0.3.7
