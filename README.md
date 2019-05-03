@@ -13,7 +13,7 @@ The analysis is documented and available as a Jupyter Notebook at [`notebooks/ps
 	- [Free company data product](http://download.companieshouse.gov.uk/en_output.html)
 	- Officer appointment bulk data (available on request)
 - [EveryPolitician](http://everypolitician.org/)
-	- We used the dedicated [EveryPolitician Python library](https://github.com/everypolitician/everypolitician-python) to download relevant data on politicians. Dat ais also available to search and download [here](http://everypolitician.org/countries.html)
+	- We used the dedicated [EveryPolitician Python library](https://github.com/everypolitician/everypolitician-python) to download relevant data on politicians. Data is also available to search and download [here](http://everypolitician.org/countries.html)
 - [Tax Justice Network Financial Secrecy Index](https://www.financialsecrecyindex.com/introduction/fsi-2018-results)
 
 ## Data dictionaries
